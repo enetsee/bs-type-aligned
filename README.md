@@ -1,16 +1,5 @@
 
 
-# Build
-```
-npm run build
-```
+# Type Aligned Sequences
 
-# Watch
-
-```
-npm run watch
-```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
+Type aligned data structures; based on those described in [`Reflection without Remorse`](http://okmij.org/ftp/Haskell/zseq.pdf)
